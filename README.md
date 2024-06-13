@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moises! <br/><a href="https://github.com/Mooses4">Programmer</a>, <a href="https://www.linkedin.com/in/moisesgranados/">Cybersecurity Professional</a>
+<h1>Hi, I'm Moises! <br/><a href="https://github.com/Mooses4">Programmer</a>, <a href="https://www.linkedin.com/in/moisesgranados/">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
